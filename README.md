@@ -1,4 +1,4 @@
-# burn_that_cv
+# Burn_that_cv
 
 A new Flutter project.
 
